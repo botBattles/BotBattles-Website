@@ -1,0 +1,31 @@
+🎨 Farbpalette für Battle Bots
+Primärfarben:
+
+Dunkles Grau oder Schwarz: Für einen metallischen, industriellen Look.
+
+Neonblau oder Rot: Für Energie, Spannung und Technik.
+
+Silber oder Chrom: Für den Roboter-Stil.
+
+Akzentfarben:
+
+Gelb oder Orange: Für Warnhinweise oder Highlights.
+
+Grün: Für HUD-Elemente oder digitale Anzeigen.
+
+Diese Kombinationen erzeugen ein futuristisches, technisches Gefühl und passen gut zu Robotik und Wettkampf.
+
+🧩 Designstil
+Layout: Grid-basiert mit klaren Linien, Panels und Boxen wie bei einem Steuerpult.
+
+Typografie: Robuste, kantige Schriftarten wie „Orbitron“, „Exo“ oder „Audiowide“.
+
+Effekte: Glühende Buttons, animierte Hover-Effekte, Soundeffekte bei Interaktion.
+
+Bildsprache: Hochauflösende Bilder von Bots, Arenen, Explosionen, technische Zeichnungen.
+
+
+
+https://www.youtube.com/watch?v=0oKYYyTNJa8
+
+https://battlebots.com/
