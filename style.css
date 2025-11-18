@@ -122,8 +122,8 @@
     height: auto;
     display: block;
     margin: 0 auto;
-    border-radius: 6px;
-
+    border-radius: 6px;  
+  }
 
   .panel-hover {
     position: relative;
@@ -154,4 +154,9 @@
 
   .panel-hover:hover .overlay-text {
     opacity: 1;
+  }
+
+  .yt-preview {
+    height: 400px;
+    width: 1672px;
   }
